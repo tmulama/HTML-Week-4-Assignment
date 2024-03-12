@@ -1,0 +1,19 @@
+h1 {
+    background-color: #F3A281;
+    padding: 3px;
+}
+
+.intro {
+   background-color: #E76752;
+   margin: 3px; 
+}
+
+.skills {
+    padding: 10px;
+    margin: 3px;
+
+}
+.contact {
+    background-color: #BB96F7;
+    padding: 3px;
+}
